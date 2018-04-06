@@ -1,5 +1,4 @@
-#
-Pretrained Word Embeddings
+# Pretrained Word Embeddings
 
 
 ## English Corpus
